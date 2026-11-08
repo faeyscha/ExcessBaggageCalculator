@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">BaggageEase</string>
+
+    <string-array name="ticket_classes">
+        <item>Economy Class</item>
+        <item>Business Class</item>
+    </string-array>
+</resources>

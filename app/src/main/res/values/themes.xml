@@ -1,0 +1,16 @@
+
+<resources>
+
+    <style name="Theme.ExcessBaggageCalculator"
+        parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryDark">@color/navy</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="android:statusBarColor">@color/navy</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/white</item>
+
+    </style>
+
+</resources>
