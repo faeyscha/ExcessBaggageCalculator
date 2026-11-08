@@ -30,8 +30,9 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvExcessWeight, tvExcessCharge, tvTotal;
     private LinearLayout resultLayout;
 
+
     private static final String APP_URL =
-            "https://github.com/YOUR_USERNAME/ExcessBaggageCalculator";
+            "https://github.com/faeyscha/ExcessBaggageCalculator";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -15,8 +15,10 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class AboutActivity extends AppCompatActivity {
 
+
     private static final String APP_URL =
-            "https://github.com/YOUR_USERNAME/ExcessBaggageCalculator";
+            "https://github.com/faeyscha/ExcessBaggageCalculator";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
